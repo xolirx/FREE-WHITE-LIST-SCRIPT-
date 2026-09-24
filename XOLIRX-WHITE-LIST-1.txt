@@ -2,7 +2,7 @@
 # profile-update-interval: 1
 # subscription-userinfo: upload=0; download=0; total=1099511627776; expire=4102444800
 # announce: base64:WE9MSVJYIFdISVRFIExJU1Qg8J+kjSDigJQg0LHQtdC30LvQuNC80LjRgiwg0L7QsdC90L7QstC70Y/QtdGC0YHRjyDQutCw0LbQtNGL0Lkg0YfQsNGB
-# Date/Time: 2026-09-24 / 22:43 (Moscow)
+# Date/Time: 2026-09-24 / 22:48 (Moscow)
 # Count: 55
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 # Provider: XOLIRX WHITE LIST 🤍
