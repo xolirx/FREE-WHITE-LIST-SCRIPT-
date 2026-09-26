@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=1099511627776; expire=4102444800
 #announce: base64:WE9MSVJYIFdISVRFIExJU1QgMiDwn6SNIOKAlCDQsdC10LfQu9C40LzQuNGCLCDQvtCx0L3QvtCy0LvRj9C10YLRgdGPINC60LDQttC00YvQuSDRh9Cw0YE=
-# Date/Time: 2026-09-26 / 13:59 (Moscow)
+# Date/Time: 2026-09-26 / 14:59 (Moscow)
 # Count: 52
 # Source: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 # Provider: XOLIRX WHITE LIST 🤍
